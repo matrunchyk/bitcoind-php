@@ -1,6 +1,6 @@
 {
-    "name": "nbobtc/bitcoind-php",
-    "homepage": "https://github.com/nbobtc/bitcoind-php",
+    "name": "matrunchyk/bitcoind-php",
+    "homepage": "https://github.com/matrunchyk/bitcoind-php",
     "type": "library",
     "description": "PHP Wrapper for a bitcoind daemon",
     "keywords": ["bitcoin", "bitcoind"],
@@ -11,9 +11,9 @@
         }
     ],
     "support": {
-        "issues": "https://github.com/nbobtc/bitcoind-php/issues",
-        "wiki": "https://github.com/nbobtc/bitcoind-php/wiki",
-        "source": "https://github.com/nbobtc/bitcoind-php"
+        "issues": "https://github.com/matrunchyk/bitcoind-php/issues",
+        "wiki": "https://github.com/matrunchyk/bitcoind-php/wiki",
+        "source": "https://github.com/matrunchyk/bitcoind-php"
     },
     "autoload": {
         "psr-0": { "Nbobtc": "src/" }
