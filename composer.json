@@ -8,7 +8,11 @@
     "authors": [
         {
             "name": "Joshua Estes"
-        }
+        },
+        {
+            "name": "Sergey Matrunchik"
+        },
+        
     ],
     "support": {
         "issues": "https://github.com/matrunchyk/bitcoind-php/issues",
