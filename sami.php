@@ -15,6 +15,6 @@ $iterator = Finder::create()
     ->in(__DIR__ . '/src');
 
 return new Sami($iterator, array(
-    'title' => 'nbobtc/bitcoind-php API Docs',
+    'title' => 'matrunchyk/bitcoind-php API Docs',
     'build_dir' => __DIR__ . '/docs',
 ));

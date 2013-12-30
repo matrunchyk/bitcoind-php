@@ -1,7 +1,7 @@
 matrunchyk/bitcoind-php
 ===================
 
-[![Build Status](https://travis-ci.org/nbobtc/bitcoind-php.png?branch=master)](https://travis-ci.org/nbobtc/bitcoind-php)
+[![Build Status](https://travis-ci.org/matrunchyk/bitcoind-php.png?branch=master)](https://travis-ci.org/matrunchyk/bitcoind-php)
 
 This project is a wrapper for a bitcoind daemon. This project is still
 being worked on and the interface may change a little until I get something

@@ -16,7 +16,7 @@
         "source": "https://github.com/matrunchyk/bitcoind-php"
     },
     "autoload": {
-        "psr-0": { "Nbobtc": "src/" }
+        "psr-0": { "Matrunchyk": "src/" }
     },
     "extra": {
         "branch-alias": {

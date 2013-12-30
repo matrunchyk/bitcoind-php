@@ -17,13 +17,13 @@
 
     <testsuites>
         <testsuite name="Bitcoind Test Suite">
-            <directory>./Tests/Nbobtc/</directory>
+            <directory>./Tests/Matrunchyk/</directory>
         </testsuite>
     </testsuites>
 
     <filter>
         <whitelist>
-            <directory>./src/Nbobtc/</directory>
+            <directory>./src/Matrunchyk/</directory>
             <exclude>
                 <directory>./Tests/</directory>
             </exclude>
