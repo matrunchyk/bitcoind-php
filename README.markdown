@@ -1,4 +1,4 @@
-nbobtc/bitcoind-php
+matrunchyk/bitcoind-php
 ===================
 
 [![Build Status](https://travis-ci.org/nbobtc/bitcoind-php.png?branch=master)](https://travis-ci.org/nbobtc/bitcoind-php)
@@ -10,11 +10,11 @@ more stable.
 # Installation
 
 You can install this library by using [composer](http://getcomposer.org/). You
-can also view more info about this on [packagist](https://packagist.org/packages/nbobtc/bitcoind-php).
+can also view more info about this on [packagist](https://packagist.org/packages/matrunchyk/bitcoind-php).
 
 Add this to the `requires` in your `composer.json` file.
 
-    "nbobtc/bitcoind-php": "1.0.*@dev"
+    "matrunchyk/bitcoind-php": "1.0.*@dev"
 
 # Usage
 
@@ -22,12 +22,12 @@ To use the project you need to just create a new instance of the class.
 
     <?php
 
-    use Nbobtc\Bitcoind\Bitcoind;
-    use Nbobtc\Bitcoind\Client;
+    use Matrunchyk\Bitcoind\Bitcoind;
+    use Matrunchyk\Bitcoind\Client;
 
     $bitcoind = new Bitcoind(new Client('https://username:password@localhost:18332'));
 
-You can view the [BitcoindInterface](https://github.com/nbobtc/bitcoind-php/blob/master/src/Nbobtc/Bitcoind/BitcoindInterface.php)
+You can view the [BitcoindInterface](https://github.com/matrunchyk/bitcoind-php/blob/master/src/Matrunchyk/Bitcoind/BitcoindInterface.php)
 file for a list of methods and descriptions of what they are and how to use them.
 
 # Tests
