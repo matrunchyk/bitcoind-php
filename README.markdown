@@ -1,8 +1,6 @@
 matrunchyk/bitcoind-php
 ===================
 
-[[Build Status]]
-
 This project is a wrapper for a bitcoind daemon. This project is still
 being worked on and the interface may change a little until I get something
 more stable.
